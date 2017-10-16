@@ -1,8 +1,8 @@
 {
-  "name": "to-do",
+  "name": "todoapp",
   "version": "1.0.0",
   "description": "my first to-do app",
-  "main": "server.js",
+  "main": "index.js",
   "dependencies": {
     "body-parser": "^1.18.2",
     "ejs": "^2.5.7",
@@ -11,8 +11,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "node server.js",
-    "start": "node server.js"
+    "test": "node index.js",
+    "start": "node index.js"
   },
   "author": "Mahmoud",
   "license": "ISC"

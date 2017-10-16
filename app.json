@@ -1,0 +1,8 @@
+{
+  "name": "Node.js todoapp",
+  "description": "a todo app",
+  "repository": "https://github.com/m4m205/M-TO-DO",
+  "keywords": ["node", "todoapp"],
+  "image": "heroku/nodejs",
+  "success_url": "/todo"
+}
